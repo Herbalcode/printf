@@ -1,1 +1,8 @@
-my first alx collaboration project on secret of printf
+# Printf
+
+## Printf Group Project
+
+*Collaorators*
+
+  * Kolade Omotayo
+  * Adeogun Adewale Ahmad
