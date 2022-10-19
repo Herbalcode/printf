@@ -1,4 +1,3 @@
-#include "main.h"
 
 /**
  * fill_long_oct_array - calculates a long octal number
